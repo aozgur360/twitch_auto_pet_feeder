@@ -6,7 +6,10 @@ This script combines the use of 2 different APIs.
 - litterbot API by natekspencer (https://github.com/natekspencer/pylitterbot/tree/main). We can use this to connect to the Whisker Feeder-Robot (https://www.litter-robot.com/feeder-robot.html) to dispense pet food.
 
 By combining these API calls, we can dispense pet treats when someone follows, donates, or subscribes while live streaming.
-https://github.com/user-attachments/assets/863e0292-b979-4926-9172-e4909d09a34c
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aozgur360/twitch_auto_pet_feeder/main/example_twitch_cat_feeder.gif" alt="Demo of Auto Pet Feeder">
+</p>
 
 1) Input your streamlabs API token in the config.toml file.
 2) Input your Feeder-Robot login username and password in the .env file.
